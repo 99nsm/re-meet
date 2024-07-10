@@ -62,6 +62,31 @@
 + 마이 페이지 : 내 정보 확인, 모임 개설, 유저 정보 수정, 내가 가입한 동아리 목록 확인, 내가 개설한 동아리 확인, 회원 탈퇴
 
 
+## 📎이미지
+![1](https://github.com/99nsm/re-meet/assets/166674058/49f94693-eb1a-49a4-8e9c-dbaa7f6710c6)
+
+![2](https://github.com/99nsm/re-meet/assets/166674058/309ac421-fadd-494c-b7f4-5f2ce028040f)
+
+![3](https://github.com/99nsm/re-meet/assets/166674058/0e820559-d619-4886-9f68-0007f3c31419)
+
+![4](https://github.com/99nsm/re-meet/assets/166674058/f1a933b3-e2dd-49ea-9485-7549d3489e4e)
+
+![5](https://github.com/99nsm/re-meet/assets/166674058/886c6d2c-e957-4a06-b0d3-4354cc24a37c)
+
+![6](https://github.com/99nsm/re-meet/assets/166674058/8620e536-45a7-4058-8807-887b8108656c)
+
+![7](https://github.com/99nsm/re-meet/assets/166674058/80f5bf56-187c-4918-957a-943bc35a8fa1)
+
+![8](https://github.com/99nsm/re-meet/assets/166674058/1e711433-7d1f-4d58-81a7-71c6ea1354ed)
+
+![9](https://github.com/99nsm/re-meet/assets/166674058/00ca644f-4879-43ae-bb4a-b668f729e331)
+
+![10](https://github.com/99nsm/re-meet/assets/166674058/1faf361c-5499-4505-acb9-552d35ea91b2)
+
+
+
+
+
 ## 📎기타 자료 
 [Re-meet_발표자료.pdf](https://github.com/user-attachments/files/15812544/Re-meet_.pdf)
 
